@@ -1,0 +1,11 @@
+Student_ID,Previous_Marks,Study_Hours_Per_Day,Work_Hours_Per_Week,Sports_Hours_Per_Week,Mobile_Usage_Hours_Per_Day,Attendance_Percentage,Sleep_Hours_Per_Day,Family_Support,Internet_Access
+STU0001,75,5,10,5,3,85,7,Medium,Yes
+STU0002,62,3,15,2,5,70,6,Low,Yes
+STU0003,88,6,5,8,2,90,8,High,Yes
+STU0004,50,2,20,1,6,65,5,Medium,No
+STU0005,78,4,8,3,4,80,7,High,Yes
+STU0006,85,6,7,6,3,95,8,High,Yes
+STU0007,67,3,12,2,5,75,6,Medium,Yes
+STU0008,90,7,4,7,2,98,9,High,Yes
+STU0009,55,2,18,1,6,60,5,Low,No
+STU0010,73,5,9,4,4,82,7,Medium,Yes
